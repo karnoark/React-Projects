@@ -1,0 +1,8 @@
+
+following features will be implemented
+1. modal using useeffect
+2. sticky header
+
+tech we are using
+1. swiperjs
+2. mui
